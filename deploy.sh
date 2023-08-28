@@ -1,1 +1,1 @@
-this file is contain deployment script.
+echo "hello everyone"
